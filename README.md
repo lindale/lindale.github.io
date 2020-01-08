@@ -1,2 +1,2 @@
-# Linda Le
-Portfolio Website
+# lindale.github.io
+GitHub Page
